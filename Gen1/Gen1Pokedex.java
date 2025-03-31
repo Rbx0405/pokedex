@@ -144,4 +144,5 @@ public class Gen1Pokedex {
         } catch (SQLException e) {
             System.out.println("Database query error: " + e.getMessage());
         }
- }
+    }
+}
